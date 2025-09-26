@@ -22,5 +22,4 @@ export const events = [
     description:
       'Share what you are building! 5-minute lightning talks from members, plus live demos of our in-progress projects.',
     cta: 'Submit a Talk'
-  }
 ];
