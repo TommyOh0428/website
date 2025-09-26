@@ -3,6 +3,7 @@ import accessibleTransitMockup from '../assets/accessible-transit-mockup.svg';
 import communityResourceMockup from '../assets/community-resource-mockup.svg';
 import sfuOssDashboardMockup from '../assets/sfu-oss-dashboard-mockup.svg';
 
+
 export const projects = [
   {
     name: 'Campus Contributor Portal',

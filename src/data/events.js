@@ -22,21 +22,4 @@ export const events = [
     description:
       'Share what you are building! 5-minute lightning talks from members, plus live demos of our in-progress projects.',
     cta: 'Submit a Talk'
-  },
-  {
-    title: 'Maintainer Mixer',
-    date: 'April 4, 2024',
-    location: 'SFU Surrey - Rm 3290',
-    description:
-      'Connect with local maintainers and discover opportunities to adopt issues from BC tech organizations.',
-    cta: 'Join the Mixer'
-  },
-  {
-    title: 'Summer Sprint Kickoff',
-    date: 'May 25, 2024',
-    location: 'Discord + GitHub',
-    description:
-      'Season launch for our asynchronous summer sprint with team standups, goal setting, and repo walkthroughs.',
-    cta: 'Get Started'
-  }
 ];
